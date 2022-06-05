@@ -88,3 +88,22 @@ O site da Saraiva, por exemplo, possui um FAQ que permite aos usuários verem as
 ------------------------------------------------------------------------------------------------
 
 
+# Diretrizes de Acessibilidade para o Conteúdo da Web - WCAG
+
+## Princípio 1: Perceptível
+
+De acordo com esse princípio, é necessário que os conteúdos sejam apresentados de mais de uma forma. Para isso, uma descrição alternativa das imagens, legendas em vídeos ou outros tipos de multimídia, e um código de HTML que consiga compreender leitores de tela são requisitos.
+
+Com essas medidas, o conteúdo do site não estará sendo transmitido de uma única maneira o que o torna perceptível para um público que antes estaria impossibilitado de acessá-lo.
+
+## Princípio 2: Operacional 
+
+Como o próprio nome diz, um site adequadamente operável é aquele em que todos os usuários consigam realizar as diversas operações sem barreiras de acesso. Por isso, é necessário que a codificação de HTML esteja ajustada, a fim de permitir a navegação pelo teclado. Além disso, a velocidade da página deve ser equilibrada: nem muito rápida, nem muito devagar e estruturar os cabeçalhos de forma  organizada também é necessário. Por fim, devem ser evitados o uso de dispositivos que sejam um gatilho para ataques epiléticos: o excesso de cores e iluminação, ou a utilização exagerada de pop-ups costumam ser prejudiciais nesse sentido.
+
+## Princípio 3: Compreensível 
+
+O terceiro princípio diz respeito sobretudo ao conteúdo textual dos sites. Além de uma escolha adequada de fontes, é necessário evitar expressões específicas, escrever sentenças de forma clara e objetiva. Medidas como essa tornam o site acessível sobretudo para pessoas com dislexia ou deficiências intelectuais, mas também podem ser muito úteis para aqueles que não fazem parte de determinado contexto, ou têm dificuldades de leitura por algum motivo.
+
+## Princípio 4: Robusto
+
+ o último conceito diz respeito à codificação do website. O WCAG estipula que o HTML deve estar alinhado a ponto de estar apto para rodar as tecnologias assistivas existentes e também para tornar o site navegável pelo teclado, o que neste último caso é imprescindível para pessoas com deficiência motora.
