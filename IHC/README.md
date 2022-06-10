@@ -1,7 +1,7 @@
 # Heurísticas de Jakob Nielsen
 
 
-### 1 - Visibilidade do status estamos no siatema
+### 1 - Visibilidade do status estamos no sistema
 
 O sistema deve sempre manter os usuários informados sobre o que está acontecendo, em tempo real, por meio de feedbacks instantâneos dentro de um prazo razoável, que servirão para orientar o usuário sobre o que está acontecendo na tela em que ele se encontra.
 
@@ -96,14 +96,22 @@ De acordo com esse princípio, é necessário que os conteúdos sejam apresentad
 
 Com essas medidas, o conteúdo do site não estará sendo transmitido de uma única maneira o que o torna perceptível para um público que antes estaria impossibilitado de acessá-lo.
 
+![Tela Clodoaldo Silva](./img/wcag_1.png)
+
 ## Princípio 2: Operacional 
 
 Como o próprio nome diz, um site adequadamente operável é aquele em que todos os usuários consigam realizar as diversas operações sem barreiras de acesso. Por isso, é necessário que a codificação de HTML esteja ajustada, a fim de permitir a navegação pelo teclado. Além disso, a velocidade da página deve ser equilibrada: nem muito rápida, nem muito devagar e estruturar os cabeçalhos de forma  organizada também é necessário. Por fim, devem ser evitados o uso de dispositivos que sejam um gatilho para ataques epiléticos: o excesso de cores e iluminação, ou a utilização exagerada de pop-ups costumam ser prejudiciais nesse sentido.
+
+![Tela atalho word](./img/Bom_exp7.png)
 
 ## Princípio 3: Compreensível 
 
 O terceiro princípio diz respeito sobretudo ao conteúdo textual dos sites. Além de uma escolha adequada de fontes, é necessário evitar expressões específicas, escrever sentenças de forma clara e objetiva. Medidas como essa tornam o site acessível sobretudo para pessoas com dislexia ou deficiências intelectuais, mas também podem ser muito úteis para aqueles que não fazem parte de determinado contexto, ou têm dificuldades de leitura por algum motivo.
 
+![Tela Governo](./img/wcag_2.png)
+
 ## Princípio 4: Robusto
 
- o último conceito diz respeito à codificação do website. O WCAG estipula que o HTML deve estar alinhado a ponto de estar apto para rodar as tecnologias assistivas existentes e também para tornar o site navegável pelo teclado, o que neste último caso é imprescindível para pessoas com deficiência motora.
+O último conceito diz respeito à codificação do website. O WCAG estipula que o HTML deve estar alinhado a ponto de estar apto para rodar as tecnologias assistivas existentes e também para tornar o site navegável pelo teclado, o que neste último caso é imprescindível para pessoas com deficiência motora.
+ 
+ ![Tela SuperHomem](./img/wcag_3.png)
